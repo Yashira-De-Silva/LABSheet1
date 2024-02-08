@@ -1,0 +1,7 @@
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\obj\Debug\LAbSheet1.csproj.AssemblyReference.cache
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\obj\Debug\LAbSheet1.csproj.CoreCompileInputs.cache
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\bin\Debug\LAbSheet1.exe.config
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\bin\Debug\LAbSheet1.exe
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\bin\Debug\LAbSheet1.pdb
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\obj\Debug\LAbSheet1.exe
+C:\Users\yashira de silva\Desktop\C#\LAbSheet1\LAbSheet1\obj\Debug\LAbSheet1.pdb
